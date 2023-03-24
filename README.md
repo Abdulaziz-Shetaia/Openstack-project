@@ -1,5 +1,4 @@
 # OpenStack
-# OpenStack
 # Private-Cloud-Openstack-RDO
 
 ![openstackpic](https://user-images.githubusercontent.com/56027450/227661425-7b16e881-4c3f-4214-bd7b-5caf23f05218.jpg)
